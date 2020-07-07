@@ -14,9 +14,11 @@ To use the script:
 
 **E.g.** ```./ABRicateSequenceExtraction.py AbricateOutPlasmidFinder.tsv Genomes/ > ASEOutput.fasta```
 
+<br>
 
 ***A best practice is to filter any ABRicate output by the %COVERAGE and %IDENTITY values before running this script***
 
+<br>
 
 To avoid confusion with multiple gene targets having duplicates in a FASTA file, the FASTA 'hit' detected by ABRicate is named in the following format: 
 ```>[gene]~~~[Accession]~~~[Genome Start Position]~~~[Genome End Position]~~~[File Name]```

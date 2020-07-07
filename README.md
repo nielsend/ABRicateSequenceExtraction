@@ -18,4 +18,5 @@ To avoid confusion with multiple gene targets having duplicates in a FASTA file,
 ```>[gene]~~~[Accession]~~~[Genome Start Position]~~~[Genome End Position]~~~[File Name]```
 
 Standard Out View:
+
 ![Standard Out View](https://github.com/nielsend/ABRicateSequenceExtraction/blob/master/ABRSeqExtractOutput.png)

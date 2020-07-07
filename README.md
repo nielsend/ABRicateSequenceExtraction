@@ -10,7 +10,7 @@ Any [ABRicate](https://github.com/tseemann/abricate) database can be used with t
 * Etc
 
 To use the script:
-```./untitled0.py [ABRicate Output] [Directory with Fastas (include any '/')] > [Output in fasta format]``` 
+```./ABRicateSequenceExtraction.py [ABRicate Output] [Directory with Fastas (include any '/')] > [Output in fasta format]``` 
 
 ***A best practice is to filter any ABRicate output by the %COVERAGE and %IDENTITY values before running this script***
 

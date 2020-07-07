@@ -1,1 +1,1 @@
-# ABRicateSequenceExtraction
+# ABRicate Sequence Extraction

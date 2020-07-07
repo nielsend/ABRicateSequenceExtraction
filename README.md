@@ -11,7 +11,8 @@ Any [ABRicate](https://github.com/tseemann/abricate) database can be used with t
 
 To use the script:
 ```./ABRicateSequenceExtraction.py [ABRicateOutput.tsv] [Directory with Fastas (include any '/')] > [Output in fasta format]``` 
-E.g. ```./ABRicateSequenceExtraction.py AbricateOutPlasmidFinder.tsv Genomes/ > ASEOutput.fasta```
+
+**E.g.** ```./ABRicateSequenceExtraction.py AbricateOutPlasmidFinder.tsv Genomes/ > ASEOutput.fasta```
 
 ***A best practice is to filter any ABRicate output by the %COVERAGE and %IDENTITY values before running this script***
 
